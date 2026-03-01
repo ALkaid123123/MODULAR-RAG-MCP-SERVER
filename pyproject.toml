@@ -39,6 +39,7 @@ dev = [
     "ruff>=0.1.0",
     "mypy>=1.0",
     "openai>=1.0",
+    "python-pptx>=0.6.21",
 ]
 
 [project.scripts]
